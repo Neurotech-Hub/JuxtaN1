@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Juxta")(type "KiCad")(uri "/Users/mattgaidica/Dropbox (University of Michigan)/Biologging/Technology/KiCad/Juxta/Juxta.kicad_sym")(options "")(descr ""))
+  (lib (name "BGM")(type "Legacy")(uri "/Users/mattgaidica/Dropbox (University of Michigan)/Biologging/Technology/KiCad/Juxta/BGM220SC12WGA2R.lib")(options "")(descr ""))
+  (lib (name "Batt")(type "KiCad")(uri "/Users/mattgaidica/Dropbox (University of Michigan)/Biologging/Technology/KiCad/Juxta/2988TR.kicad_sym")(options "")(descr ""))
+  (lib (name "JuxtaN_SchematicLib")(type "KiCad")(uri "${KIPRJMOD}/JuxtaN_SchematicLib.kicad_sym")(options "")(descr ""))
+)
