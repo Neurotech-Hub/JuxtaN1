@@ -28,3 +28,6 @@ fp-info-cache
 *.xml
 *.csv
 .DS_Store
+_components/.DS_Store
+_components/Power/.DS_Store
+_components/Power/.DS_Store
