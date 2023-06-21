@@ -4,4 +4,5 @@
   (lib (name "BGM")(type "Legacy")(uri "/Users/mattgaidica/Dropbox (University of Michigan)/Biologging/Technology/KiCad/Juxta/BGM220SC12WGA2R.lib")(options "")(descr ""))
   (lib (name "Batt")(type "KiCad")(uri "/Users/mattgaidica/Dropbox (University of Michigan)/Biologging/Technology/KiCad/Juxta/2988TR.kicad_sym")(options "")(descr ""))
   (lib (name "JuxtaN_SchematicLib")(type "KiCad")(uri "${KIPRJMOD}/JuxtaN_SchematicLib.kicad_sym")(options "")(descr ""))
+  (lib (name "MAX30003")(type "KiCad")(uri "${KIPRJMOD}/MAX30003CWV+T.kicad_sym")(options "")(descr ""))
 )
