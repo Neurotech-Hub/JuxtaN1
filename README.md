@@ -4,7 +4,7 @@ Matt Gaidica, Ph.D. | mgaidica@umich.edu
 
 **Summary**
 
-“Juxta” loggers are capable of detecting other nearby Juxta devices (~5 feet) using Bluetooth Low Energy (BLE). They accomplish this by using a Universally Unique Identifier (UUID) that is unique to between Juxta loggers and other BLE devices, as well as a BLE address (or MAC address) unique to each physical BLE chip itself: All Juxta loggers emit the same UUID and each Juxta logger has a unique BLE address. When advertising, Juxta loggers will display as “J” followed by its unique BLE address (e.g., “J6CB2FDCDABB8”).
+“Juxta” loggers are capable of detecting other nearby Juxta devices (~5 feet) using Bluetooth Low Energy (BLE). N-versions are meant to be implanted to record neural or cardiac biopotentials. They accomplish this by using a Universally Unique Identifier (UUID) that is unique to between Juxta loggers and other BLE devices, as well as a BLE address (or MAC address) unique to each physical BLE chip itself: All Juxta loggers emit the same UUID and each Juxta logger has a unique BLE address. When advertising, Juxta loggers will display as “J” followed by its unique BLE address (e.g., “J6CB2FDCDABB8”).
  
 **Notes on terminology:**
 
